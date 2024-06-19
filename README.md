@@ -13,10 +13,6 @@ This project is a mock personal portfolio website created using HTML, CSS, and J
 - [License](#license)
 - [Contact](#contact)
 
-## Demo
-
-You can view a live demo of the project [here](#).
-
 ## Features
 
 - **Responsive Design**: The portfolio is designed to be fully responsive and looks great on all devices.
@@ -79,20 +75,4 @@ The `script.js` file adds interactivity to the portfolio, including:
 - **Adding Recommendations**: Functionality to add new recommendations dynamically.
 - **Popup Management**: Functions to show and hide a pop-up message upon recommendation submission.
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please reach out via email at [nate.abreu@hotmail.com](mailto:nate.abreu@hotmail.com).
